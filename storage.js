@@ -12,11 +12,11 @@ const projects = [
     {
         title: 'Угадай слово',
         description: 'Аналог игр вроде Тинькофф 5 букв, wordly и тд.',
-        link: 'https://valyashmelev.github.io/word-finder/',
+        link: 'https://valyashmelev.github.io/words/',
     },
     {
         title: 'Слово по маске',
         description: 'Решатель для таких игр как Тинькофф 5 букв, wordly и тд.',
-        link: 'https://valyashmelev.github.io/word-find/',
+        link: 'https://valyashmelev.github.io/word-finder/',
     },
 ]
