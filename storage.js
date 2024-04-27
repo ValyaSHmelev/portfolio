@@ -19,4 +19,9 @@ const projects = [
         description: 'Решатель для таких игр как Тинькофф 5 букв, wordly и тд.',
         link: 'https://valyashmelev.github.io/word-finder/',
     },
+    {
+        title: 'Wordle-helper',
+        description: 'Решатель для таких игр как Тинькофф 5 букв, wordly и тд.',
+        link: 'https://valyashmelev.github.io/wordle-helper/',
+    },
 ]
